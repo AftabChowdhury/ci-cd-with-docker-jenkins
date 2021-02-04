@@ -50,7 +50,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-				<finalName>ci-cd-with-jenkins-docker</finalName>
+				<finalName>ci-cd-with-docker-jenkins</finalName>
 			</plugin>
 		</plugins>
 	</build>
